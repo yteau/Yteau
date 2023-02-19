@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ittoelj@gmail.com
+- ### My daily routine
+-''' mermaid
+- graph TD
+- code --> eat ;
+- eat --> sleep ;
+- sleep --> code ;
+- '''
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
