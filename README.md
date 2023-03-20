@@ -13,7 +13,6 @@ So this is it :
 - 🌱 I’m currently learning  lots of amazing things!
 - 👯 I’m looking to collaborate on  : never mind!
 - 🤔 I’m looking for help with  : ALL! I begin!;)
-- 💬 Ask me about ...
 - 📫 How to reach me:  Linkedin, email or Facebook at Thérèse du Farçou.
 - ⚡ Fun fact: 
 -->
