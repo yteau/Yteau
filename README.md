@@ -1,5 +1,5 @@
 ### Hi there 👋
-Je suis Itto, j'habite à Paris et je suis en formation pour devenir développeuse web full stack, j'adore apprendre des langages et des frameworks comme PHP et React.
+Je suis Itto, j'habite à Paris et je suis en formation pour devenir développeuse web full stack, j'adore apprendre des langages et des frameworks comme PHP et Symfony.
 
 <!--
 **yteau/Yteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
