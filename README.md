@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World ! 👋
 Je suis Itto, j'habite à Paris et je suis en formation pour devenir développeuse web full stack, j'adore apprendre des langages et des frameworks comme PHP et Symfony.
 
 <!--
@@ -7,7 +7,7 @@ Je suis Itto, j'habite à Paris et je suis en formation pour devenir développeu
 
 So this is it :
 
-- 🔭 I’m currently working on  PHP et Symfony
+- 🔭 I’m currently working on  PHP and Symfony
 - 🌱 I’m currently learning  lots of amazing things!
 - 👯 I’m looking to collaborate on  : never mind!
 - 🤔 I’m looking for help with  : ALL! I begin!;)
