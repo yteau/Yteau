@@ -1,5 +1,7 @@
 ### Hello World ! 👋
-Je suis Itto, j'habite à Paris et je suis en formation pour devenir développeuse web full stack, j'adore apprendre des langages et des frameworks comme PHP et Symfony.
+I'm Itto, I live in Paris and I'm training to become a full stack web developer, I love learning languages and frameworks like PHP and Symfony. After 2 years of experience in complex data management, lobbying, protocol and project management at the General Management of a large Group. Being passionate about programming for several years, And I am looking for an end-of-studies internship from August 4, 2023, in order to develop my skills. I have a preference for the back-end.
+I am dynamic, positive, creative. Curious and always full of energy!
+Motivated and ready to take on technical challenges!
 
 <!--
 **yteau/Yteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
