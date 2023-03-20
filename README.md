@@ -5,7 +5,7 @@ Je suis Itto, j'habite à Paris et je suis en formation pour devenir développeu
 **yteau/Yteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+So this is it :
 
 - 🔭 I’m currently working on  PHP et Symfony
 - 🌱 I’m currently learning  lots of amazing things!
