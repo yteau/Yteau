@@ -8,11 +8,11 @@ Je suis Itto, j'habite à Paris et je suis en formation pour devenir développeu
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  PHP et Symfony
-- 🌱 I’m currently learning  pleins de choses incroyables!
-- 👯 I’m looking to collaborate on  : peu importe!
-- 🤔 I’m looking for help with  :  TOUT! Je débute! ;)
+- 🌱 I’m currently learning  lots of amazing things!
+- 👯 I’m looking to collaborate on  : never mind!
+- 🤔 I’m looking for help with  : ALL! I begin!;)
 - 💬 Ask me about ...
-- 📫 How to reach me:  Linkedin ou email.
+- 📫 How to reach me:  Linkedin or email.
 - ⚡ Fun fact: 
 -->
 
