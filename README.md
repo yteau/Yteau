@@ -14,7 +14,7 @@ So this is it :
 - 👯 I’m looking to collaborate on  : never mind!
 - 🤔 I’m looking for help with  : ALL! I begin!;)
 - 📫 How to reach me:  Linkedin, email or Facebook at Thérèse du Farçou.
-- ⚡ Fun fact: 
+- ⚡ Fun fact:  Championne de sudo,  j'aime  le code, mais parfois c'est le code qui ne m'aime pas, je me nourris comme Kevin McCallister dans Maman j'ai raté l'avion!
 -->
 
 
